@@ -1,6 +1,4 @@
-# Bitespeed Identity Reconciliation
-
-This is my submission for the Bitespeed backend task.
+# Identity Reconciliation
 
 ## What it does
 
